@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="Tamaño_text_titulos">30dp</dimen>
+    <dimen name="tamaño_text_normal">20dp</dimen>
+    <dimen name="tamaño_buttom">200dp</dimen>
+</resources>
